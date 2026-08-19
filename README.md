@@ -13,6 +13,9 @@ and notes from my ongoing cybersecurity studies.
 - **Notes** — study material on networking, Linux tools, and security 
   fundamentals
 
+## Contributing
+This is a learning project — if you spot mistakes or vulnerabilities in the code, feel free to open an issue or PR!
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-martins-gil-b07788361/)
