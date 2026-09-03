@@ -133,4 +133,5 @@ Now the executables are made and I just needed to run the steps described here o
 I connected via SSH to create the other terminal with the credentials I found for the user `admin`.
 
 I ran both commands and got root:
+
 ![Root flag](./assets/root.png)
